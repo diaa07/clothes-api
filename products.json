@@ -684,14 +684,14 @@
     },
     {
       "id": 63,
-      "name": "Navy Polo Dress",
+      "name": "Navy Polo Tshirt",
       "image_url": "https://i.ibb.co/s9GNZc6t/c2731ff86481a9b435afb1d36803f74f.jpg",
       "description": "Women's navy polo dress with half-zip closure. Tennis skirt silhouette with pleated detail.",
       "rating": 4.5,
       "price": 49.95,
       "gender": "Women",
-      "category": "Dresses",
-      "sub_category": "Casual"
+      "category": "Tops",
+      "sub_category": "Shirts"
     },
     {
       "id": 64,
